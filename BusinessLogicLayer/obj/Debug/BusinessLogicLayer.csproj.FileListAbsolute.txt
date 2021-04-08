@@ -1,0 +1,10 @@
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

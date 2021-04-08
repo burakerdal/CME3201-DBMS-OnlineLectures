@@ -1,0 +1,5 @@
+C:\Users\Burak\source\repos\OnlineLecturesSite\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Burak\source\repos\OnlineLecturesSite\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\OnlineLecturesSite\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\EntityLayer\obj\Debug\EntityLayer.pdb

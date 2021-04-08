@@ -1,0 +1,8 @@
+C:\Users\Burak\source\repos\OnlineLecturesSite\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Burak\source\repos\OnlineLecturesSite\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Burak\source\repos\OnlineLecturesSite\FacadeLayer\obj\Debug\FacadeLayer.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\OnlineLecturesSite\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+C:\Users\Burak\source\repos\OnlineLecturesSite\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\Burak\source\repos\OnlineLecturesSite\FacadeLayer\obj\Debug\FacadeLayer.pdb
